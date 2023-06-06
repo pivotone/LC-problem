@@ -1,0 +1,14 @@
+.vscode
+.idea
+
+.DS_Store
+
+node_modules/
+docs/.vuepress/.cache/
+docs/.vuepress/.temp/
+docs/.vuepress/dist/
+
+node_modules/
+blog/.vuepress/.cache/
+blog/.vuepress/.temp/
+blog/.vuepress/dist/
