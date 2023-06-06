@@ -32,6 +32,7 @@ jobs:
         run: |-
           yarn run docs:build
           > blog/.vuepress/dist/.nojekyll
+          ls blog/.vuepress/dist
 
       - name: Deploy Docs
         uses: JamesIves/github-pages-deploy-action@v4
