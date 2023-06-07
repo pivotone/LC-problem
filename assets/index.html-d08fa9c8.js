@@ -1,0 +1,1 @@
+const e=JSON.parse('{"key":"v-78f97d5b","path":"/tag/%E8%B4%AA%E5%BF%83/","title":"贪心 Tag","lang":"en-US","frontmatter":{"title":"贪心 Tag","index":false,"feed":false,"sitemap":false,"blog":{"type":"category","name":"贪心","key":"tag"},"layout":"BlogCategory"},"headers":[],"git":{},"readingTime":{"minutes":0,"words":0},"filePathRelative":null,"excerpt":""}');export{e as data};
