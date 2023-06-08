@@ -1,0 +1,1 @@
+const e=JSON.parse('{"key":"v-3606a93d","path":"/tag/%E5%9B%9E%E6%BA%AF/","title":"回溯 Tag","lang":"en-US","frontmatter":{"title":"回溯 Tag","index":false,"feed":false,"sitemap":false,"blog":{"type":"category","name":"回溯","key":"tag"},"layout":"BlogCategory"},"headers":[],"git":{},"readingTime":{"minutes":0,"words":0},"filePathRelative":null,"excerpt":""}');export{e as data};
