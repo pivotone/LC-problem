@@ -1,0 +1,1 @@
+const e=JSON.parse('{"key":"v-fd6bcea4","path":"/tag/%E4%BA%8C%E5%88%86/","title":"二分 Tag","lang":"en-US","frontmatter":{"title":"二分 Tag","index":false,"feed":false,"sitemap":false,"blog":{"type":"category","name":"二分","key":"tag"},"layout":"BlogCategory"},"headers":[],"git":{},"readingTime":{"minutes":0,"words":0},"filePathRelative":null,"excerpt":""}');export{e as data};
